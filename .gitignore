@@ -162,3 +162,8 @@ cython_debug/
 #.idea/
 
 PDMX.csv
+interactions_train.csv
+interactions_validation.csv
+interactions_test.csv
+pp_recipes.csv
+pp_users.csv
