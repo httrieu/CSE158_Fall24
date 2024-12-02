@@ -167,3 +167,5 @@ interactions_validation.csv
 interactions_test.csv
 pp_recipes.csv
 pp_users.csv
+RAW_interactions.csv
+RAW_recipes.csv
